@@ -1,0 +1,24 @@
+{
+  "model_name": "RandomForest",
+  "r2_score": 0.6237,
+  "mae": 1011802.0,
+  "features": [
+    "area",
+    "bedrooms",
+    "bathrooms",
+    "stories",
+    "parking",
+    "mainroad",
+    "guestroom",
+    "basement",
+    "hotwaterheating",
+    "airconditioning",
+    "prefarea",
+    "furnishingstatus",
+    "total_rooms",
+    "luxury_score",
+    "has_extra_amenities",
+    "area_per_room"
+  ],
+  "training_samples": 436
+}
